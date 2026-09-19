@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0002-add-two-numbers) |
+| [0147-insertion-sort-list](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
