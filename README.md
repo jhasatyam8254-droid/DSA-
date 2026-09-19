@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,17 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
