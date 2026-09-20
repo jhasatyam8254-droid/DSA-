@@ -4,14 +4,9 @@ public:
         int j = 0;
        for(int i = 0; i < nums.size(); i++){
         if(nums[i] != 0){
-            nums[j] = nums[i];
-            j+=1;
+          swap(nums[i], nums[j]);
+          j++;
         }
-       } 
-
-       while(j < nums.size()){
-        nums[j] = 0;
-        j = j + 1;
-       }
+       }  
     }
 };
