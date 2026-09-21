@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
