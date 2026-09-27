@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
@@ -157,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
