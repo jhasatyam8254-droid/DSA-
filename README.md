@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0905-sort-array-by-parity) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
