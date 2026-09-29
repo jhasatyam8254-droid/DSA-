@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0088-merge-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0189-rotate-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0509-fibonacci-number) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0724-find-pivot-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
