@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
