@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0905-sort-array-by-parity) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
