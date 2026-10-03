@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0032-longest-valid-parentheses) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
