@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0118-pascals-triangle) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0054-spiral-matrix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
