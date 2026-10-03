@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
