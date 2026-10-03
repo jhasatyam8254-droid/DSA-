@@ -8,7 +8,7 @@ public:
 
         for(int i = 0; i < n; i++)
             for(int j = 0; j < m; j++)
-                swap(ans[j][i], matrix[i][j]);
+                ans[j][i] = matrix[i][j];
 
         return ans;
     }
