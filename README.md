@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0941-valid-mountain-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0867-transpose-matrix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -223,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
