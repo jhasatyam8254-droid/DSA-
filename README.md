@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1009-complement-of-base-10-integer) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
