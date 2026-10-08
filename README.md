@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0867-transpose-matrix) |
 ## Newton's Method
 |  |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
