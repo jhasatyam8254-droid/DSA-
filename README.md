@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1539-kth-missing-positive-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1539-kth-missing-positive-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
