@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
 | ------- |
@@ -332,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
