@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0389-find-the-difference) |
+| [1122-relative-sort-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -261,10 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1122-relative-sort-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -344,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
