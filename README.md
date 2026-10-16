@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -363,4 +365,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
