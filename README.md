@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0724-find-pivot-index) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0977-squares-of-a-sorted-array) |
