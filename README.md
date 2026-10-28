@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0867-transpose-matrix) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Newton's Method
 |  |
 | ------- |
