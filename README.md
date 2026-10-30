@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0509-fibonacci-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0344-reverse-string) |
