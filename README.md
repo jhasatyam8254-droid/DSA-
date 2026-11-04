@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0643-maximum-average-subarray-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Trie
 |  |
 | ------- |
@@ -382,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
 |  |
 | ------- |
