@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jhasatyam8254-droid/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
