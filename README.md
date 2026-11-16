@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jhasatyam8254-droid/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/jhasatyam8254-droid/DSA-/tree/master/0867-transpose-matrix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jhasatyam8254-droid/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
